@@ -27,8 +27,6 @@ export const backendSkills = [
   "MongoDB",
   "PostgreSQL",
   "Firebase",
-  "AWS",
-  "Docker",
-  "Kubernetes",
+  "Swagger",
 ];
 
