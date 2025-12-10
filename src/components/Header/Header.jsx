@@ -64,7 +64,7 @@ const Header = () => {
             transition={{ delay: 0.3, duration: 0.6 }}
             className="text-gray-400 text-base font-normal mt-1"
           >
-            Fullstack Developer | BCA Student
+            Fullstack Developer | Vibe Coding | BCA Student
           </motion.p>
         </motion.div>
         

@@ -95,6 +95,9 @@ const Skills = () => {
               />
               Backend & Tools
             </motion.h3>
+            <p className="text-gray-400 text-sm md:text-base">
+              Currently learning backend engineering and strengthening Nest.js, Git/GitHub, and REST API skills.
+            </p>
             <motion.div 
               variants={staggerContainer}
               className="flex flex-wrap gap-3"

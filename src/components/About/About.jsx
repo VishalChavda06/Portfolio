@@ -9,7 +9,7 @@ const About = () => {
 
   const paragraphs = [
     "Hello! I'm Vishal Chavda, a passionate 20-year-old BCA (Bachelor of Computer Applications) student in my third year, dedicated to mastering the art of full-stack web development. My journey in programming began with curiosity and has evolved into a deep commitment to creating meaningful digital experiences.",
-    "Currently, I'm immersing myself in modern web technologies, focusing on building robust applications with React for dynamic front-end experiences and exploring backend development with Node.js and Nest.js. I believe in learning by doing, which is why I actively work on real-world projects that challenge my skills and expand my understanding.",
+    "Currently, I'm actively engaged in vibe coding - working on freelance projects and passion-driven development work. I'm immersing myself in modern web technologies, focusing on building robust applications with React for dynamic front-end experiences and exploring backend development with Node.js and Nest.js. I believe in learning by doing, which is why I actively work on real-world projects that challenge my skills and expand my understanding.",
     "Beyond coding, I'm fascinated by the intersection of technology and user experience. I strive to write clean, maintainable code and create applications that not only function well but also provide intuitive and engaging user interfaces. My goal is to become a versatile developer who can contribute meaningfully to innovative projects."
   ];
 

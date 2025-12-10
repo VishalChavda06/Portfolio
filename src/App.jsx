@@ -2,6 +2,7 @@ import React from "react";
 import { motion } from "framer-motion";
 import Header from "./components/Header/Header";
 import About from "./components/About/About";
+import Statistics from "./components/Statistics/Statistics";
 import Education from "./components/Education/Education";
 import Languages from "./components/Languages/Languages";
 import Skills from "./components/Skills/Skills";
@@ -55,6 +56,7 @@ function App() {
         <Skills />
         <Projects />
         <Education />
+        <Statistics />
         <Languages />
         <Contact />
       </main>
